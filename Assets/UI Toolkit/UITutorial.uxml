@@ -1,0 +1,6 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/StyleSheet/TutorialStyle.uss?fileID=7433441132597879392&amp;guid=d2a2d3c7a2775864bb008cd1a20be612&amp;type=3#TutorialStyle" />
+    <ui:VisualElement name="Root" style="flex-grow: 1; align-items: center; justify-content: center; align-self: center; align-content: center;">
+        <ui:Label text="The door is lock.&#10;Click on a button to open it" name="Text" selectable="true" class="BaseText FadeOut" />
+    </ui:VisualElement>
+</ui:UXML>

@@ -1,0 +1,17 @@
+.BaseText {
+    -unity-text-align: upper-center;
+    font-size: 100px;
+    color: rgb(255, 223, 0);
+    -unity-font-definition: resource('Fonts & Materials/Vipnagorgialla Rg It');
+}
+
+.FadeOut {
+    color: rgba(255, 223, 0, 0);
+    transition-duration: 1s;
+}
+
+.FadeIn {
+    transition-property: color;
+    color: rgb(255, 223, 0);
+    transition-duration: 1s;
+}
